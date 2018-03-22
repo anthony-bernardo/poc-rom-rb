@@ -1,0 +1,5 @@
+development:
+  DATABASE_URL: 'postgres://localhost/vpx'
+
+test:
+  DATABASE_URL: 'postgres://localhost/vpx'
